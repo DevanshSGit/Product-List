@@ -1,0 +1,40 @@
+.product {
+    margin: 1rem;
+    margin-top: 50px;
+    width: 50%;
+    margin-left: 300px;
+    padding: 1rem;
+    background-color: #66b6ca;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    border-radius: 12px;
+    text-align: center;
+    color: white;
+}
+
+.product h2 {
+    font-family: sans-serif;
+    font-size: 2rem;
+    color: #163ca5;
+}
+
+.product h3 {
+    color: #3147c4;
+    margin: 0;
+    font-size: 1rem;
+}
+
+.product p {
+    color: #1d1b64;
+    margin: 0;
+    margin-top: 8px;
+    font-size: 1.5rem;
+}
+
+
+.product img {
+    border-radius: 8px;
+    width: 250px;
+    height: 200px;
+    margin-left: 5px;
+    margin-top: 8px;
+}
